@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /konsalting/
+Sitemap: https://vitaliyrotan.github.io/konsalting/sitemap.xml
